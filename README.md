@@ -18,5 +18,5 @@ https://ishishow.github.io/tank/
 ![image](https://user-images.githubusercontent.com/50270988/111263402-28da1100-8669-11eb-8f4a-40d1647a9a7e.png)
 
 ## プレイ動画
-![Videotogif](https://user-images.githubusercontent.com/50270988/111263785-c59cae80-8669-11eb-94ff-4c45d8b3888e.gif)
 ![Videotogif (1)](https://user-images.githubusercontent.com/50270988/111264027-30e68080-866a-11eb-80bc-3a8a5e4740fb.gif)
+![Videotogif (2)](https://user-images.githubusercontent.com/50270988/111272373-e23ee380-8675-11eb-8482-e854d3851b7a.gif)

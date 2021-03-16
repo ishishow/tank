@@ -2,7 +2,7 @@
 
 コンバット
 
-## ゲーム リンク
+## ゲームリンク
 
 https://ishishow.github.io/tank/
 

@@ -1,1 +1,1 @@
-web: 20dojo-online
+web: bin/20dojo-online
